@@ -1,0 +1,55 @@
+.sale-wrapper {
+    margin-top: 76px;
+  }
+  
+  .sale-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+  }
+  
+  .sale-item {
+    text-align: center;
+  }
+  
+  .sale-link {
+    text-decoration: none;
+  }
+  
+  .sale-image {
+    width: 359px;
+    height: 204px;
+    margin-bottom: 35px;
+  }
+  
+  .sale-title {
+    font-family: Inter, sans-serif;
+    color: #fff;
+    font-size: 1.1rem;
+    margin-bottom: 5px;
+  }
+  
+  .sale-button {
+    font-family: Inter, sans-serif;
+    color: #fff;
+    text-align: center;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: #0e8ce4;
+    transition: background-color 0.2s ease;
+  }
+  
+  .sale-button:hover {
+    background-color: #065db1;
+  }
+  
+  .sale-item:first-child {
+    margin-left: 189px;
+  }
+  
+  .sale-item:last-child {
+    margin-right: 189px;
+  }
+  
